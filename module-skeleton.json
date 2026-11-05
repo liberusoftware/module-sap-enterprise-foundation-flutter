@@ -1,0 +1,15 @@
+{
+  "repository": "module-sap-enterprise-foundation-flutter",
+  "capabilityKey": "planned:sap:enterprise-foundation",
+  "presentation": "mobile-flutter",
+  "package": "module_sap_enterprise_foundation_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/sap/nextjs/enterprise-foundation.md",
+  "presentationPlan": "projects/sap/flutter/enterprise-foundation.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "sap"
+  ]
+}
